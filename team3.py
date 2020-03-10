@@ -1,8 +1,3 @@
-from __future__ import print_function
-import time
-
-
-
 team_name = 'Team 3'
 strategy_name= 'Yes'
 strategy_description = 'if count of b is greater or equal to the count of c, then return b; else return c'  
